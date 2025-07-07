@@ -13,6 +13,4 @@ This is a simple project to toggle between light and dark mode using HTML, CSS, 
 
 ## How to Use
 1. Open `index.html` in a browser.
-2. Click "Toggle Dark Mode" to switch between modes.
-
-## Made for learning purposes 🎓
+2. Click "Toggle Dark Mode" to switch between modes
